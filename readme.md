@@ -1,6 +1,6 @@
 `5. September 2023` - `neueFische - Java Development Bootcamp`
 
-`Leonie, Joshua, Ming`
+`Leonie` `Joshua` `Ming`
 
 # DerHamburgShop
 #### Erstelle eine Klasse ProductRepo, die eine Liste von Product-Objekten enthält.
@@ -15,13 +15,9 @@
 8. _Schritt 1_: Implementiere eine Methode, um eine neue Bestellung aufzugeben.
 9. _Schritt 2_: Überprüfe, ob die bestellten Produkte existieren. Wenn nicht gebe ein System.out.println aus.
 
-
+<br><br>
 10. _Schritt 1_: Erstelle ein OrderRepo-Interface mit den Methoden aus dem OrderListRepo (Hinzufügen, Entfernen und Abfragen von Bestellungen)
-
-
-
-
-
+<br>
 
 11. Erstelle eine Klasse OrderMapRepo, über die wir neue Bestellungen aufgeben können.
 12. Diese Klasse soll auch das OrderRepo-Interface implementieren.
